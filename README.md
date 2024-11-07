@@ -26,7 +26,7 @@ The dataset includes two key variables:
 
 <br><br>
 
-A simple linear regression model was selected due to the clear linear relationship expected between fertilizer use and yield. The dataset is split into training and testing sets, with 80% of the data used for training and 20% for testing. The model's performance is evaluated using metrics such as Mean Squared Error (MSE) and R-squared (R²) to gauge accuracy.<br><br>
+<h3>A simple linear regression model was selected due to the clear linear relationship expected between fertilizer use and yield. The dataset is split into training and testing sets, with 80% of the data used for training and 20% for testing. The model's performance is evaluated using metrics such as Mean Squared Error (MSE) and R-squared (R²) to gauge accuracy.</h3><br><br>
 
 <h3>Result</h3>
 The resulting model achieved:
